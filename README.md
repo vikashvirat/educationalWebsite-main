@@ -1,1 +1,1 @@
-# educationalWebsite-main
+# educational.github.io
